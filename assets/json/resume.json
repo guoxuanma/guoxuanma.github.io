@@ -1,0 +1,227 @@
+{
+  "basics": {
+    "name": "Guoxuan Ma",
+    "label": "Economic researcher",
+    "image": "",
+    "email": "guoxuan@uibe.edu.cn",
+    "phone": "",
+    "url": "https://guoxuanma.github.io",
+    "summary": "",
+    "location": {
+      "address": "10 Huixindongjie, Keyan 421,UIBE, Chaoyang",
+      "postalCode": "100029",
+      "city": "Chaoyang",
+      "countryCode": "CN",
+      "region": "Beijing"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "guoxuanma",
+        "url": ""
+      }
+    ]
+  },
+  "academic_positions": [
+    {
+      "name": "University of International Business and Economics (UIBE)",
+      "position": "Assistant Professor of Economics",
+      "url": "",
+      "startDate": "2022-08",
+      "endDate": "present",
+      "summary": "Research Institute for Global Value Chains",
+      "highlights": ""
+    }
+  ],
+  // "volunteer": [
+  //   {
+  //     "organization": "People's Climate March",
+  //     "location": "Zurich, Switzerland",
+  //     "position": "Lead Organizer",
+  //     "url": "https://example.com",
+  //     "startDate": "2014-04-01",
+  //     "endDate": "2015-07-01",
+  //     "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+  //     "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+  //   }
+  // ],
+
+  "research_interests": [
+    {
+      "name": "Structure IO"
+    },
+    {
+      "name": "Empirical Macroeconomics"
+    },
+    {
+      "name": "Auctions"
+    },
+    {
+      "name": "Firm Dynamics"
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Pennsylvania State University",
+      "location": "PA, USA",
+      "area": "Economics",
+      "studyType": "PhD",
+      "startDate": "2016-09",
+      "endDate": "2022-08",
+      "summary": "Comittee : Mark Roberts (Chair), David Argente, Karl Schurter"
+    },
+
+    {
+      "institution": "Hanqing Institute, Renmin University",
+      "location": "Beijing, CN",
+      "area": "Economics",
+      "studyType": "M.A",
+      "startDate": "2013-09",
+      "endDate": "2016-07"
+
+    },
+
+    {
+      "institution": "School of Business, Nanjing University",
+      "location": "Nanjing, CN",
+      "area": "Financial Engineering",
+      "studyType": "B.A",
+      "startDate": "2009-09",
+      "endDate": "2013-07"
+
+    }
+
+  ],
+
+  "awards": [
+    {
+      "title": "Bates White Award",
+      "date": "2018",
+      "awarder": "Department of Ecoomics, Penn State University",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  // "certificates": [
+  //   {
+  //     "name": "Machine Learning",
+  //     "date": "2018-01-01",
+  //     "issuer": "Stanford University",
+  //     "url": "https://example.com",
+  //     "icon": "fa-solid fa-location-dot"
+  //   },
+  //   {
+  //     "name": "Quantum Computing",
+  //     "date": "2018-01-01",
+  //     "issuer": "Stanford University",
+  //     "url": "https://example.com",
+  //     "icon": "fa-solid fa-tag"
+  //   },
+  //   {
+  //     "name": "Quantum Information",
+  //     "date": "2018-01-01",
+  //     "issuer": "Stanford University",
+  //     "url": "https://example.com",
+  //     "icon": "fa-solid fa-envelope"
+  //   },
+  //   {
+  //     "name": "Quantum Cryptography",
+  //     "date": "2018-01-01",
+  //     "issuer": "Stanford University",
+  //     "url": "https://example.com",
+  //     "icon": "fa-solid fa-hashtag"
+  //   },
+  //   {
+  //     "name": "Quantum Communication",
+  //     "date": "2018-01-01",
+  //     "issuer": "Stanford University",
+  //     "url": "https://example.com",
+  //     "icon": "fa-solid fa-calendar"
+  //   },
+  //   {
+  //     "name": "Quantum Teleportation",
+  //     "date": "2018-01-01",
+  //     "issuer": "Stanford University",
+  //     "url": "https://example.com",
+  //     "icon": "fa-solid fa-clipboard-check"
+  //   }
+  // ],
+  "publications": [
+    {
+      "title": "'Conventional' Monetary Policy in OLG Models Revisiting the Asset-substitution Channel",
+      "journal": "International Economic Review",
+      "type": "article",
+      "date": "2023-08",
+      "authors": "Guanliang Hu, Guoxuan Ma, Wei Qiao,  Neil Wallace",
+      "doi": "10.1111/iere.12618",
+      "abstract": ""
+    },
+
+    {
+      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1916-03-20",
+      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
+      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+    }
+  ],
+
+  "working_papers": [
+    {
+      "title": "Young Firms' Financing Choices, Investment, and Growth (JMP)",
+      "journal": "",
+      "type": "working paper",
+      "authors": "Guoxuan Ma",
+      "date": "2023-09",
+      "url": "",
+      "abstract": ""
+    },
+    {
+      "title": "Information Asymmetry and Bidders' Behavior in Common Value English Auctions",
+      "journal": "",
+      "type": "working paper",
+      "authors": "Guoxuan Ma and Wang Xiang",
+      "date": "2025-01",
+      "url": "",
+      "abstract": ""
+    }
+  ],
+
+
+  "skills": [
+    {
+      "name": "Programming",
+      "icon": "fa-solid fa-desktop",
+      "keywords": [
+        "python",
+        "Matlab",
+        "Stata"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
+
+  "projects": [
+    {
+      "sponsor": "Chinese Natural Science Foundation (Young Scholar)",
+      "name": "Optimal Auction Design and Strategic Bidding Under Information Asymmetry -- From Extensive Margin Perspective",
+      "startDate": "2025-01",
+      "endDate": "2027-12",
+      "summary": "Studying auction theory and application on information revelation and identification"
+    }
+  ]
+
+
+}

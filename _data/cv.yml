@@ -1,0 +1,169 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Guoxuan Ma
+    - name: Date of Birth
+      value: 1990-08
+    - name: Languages
+      value: English, Chinese
+    - name: Email
+      value: guoxuan@uibe.edu.cn
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Economics
+      institution: Pennsylvania State University, United States
+      year: 2022
+      description:
+      #  - Description 1.
+        - title: Committee
+          contents:
+            - Mark Roberts (Chair), David Argente, Karl Schurter
+
+
+    - title: M.A. in Economics
+      institution: Hanqing Institute, Renmin University, China
+      year: 2016
+      description:
+        # - Description 1.
+
+    - title: B.A. in Financial Engineering
+      institution: Nanjing University, China
+      year: 2013
+      description:
+        # - Description 1.
+
+- title: Current Position
+  type: time_table
+  contents:
+    - title: Assistant Professor of Economics
+      institution: Research Institute for Global Value Chains (RIGVC), UIBE, China
+      year: 2022 - 
+      description:
+        # - Description 1.
+
+
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: Professor of Theoretical Physics
+#       institution: Institute for Advanced Study, Princeton University
+#       year: 1933 - 1955
+#       description:
+#         - Description 1.
+#         - Description 2.
+#         - title: Description 3.
+#           contents:
+#             - Sub-description 1.
+#             - Sub-description 2.
+#     - title: Visiting Professor
+#       institution: California Institute of Technology, Pasadena, California, US
+#       year: 1933
+#       description:
+#         - Description 1.
+#         - Description 2.
+
+#     - title: Director
+#       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+#       year: 1917-1933
+
+#     - title: Professor of Theoretical Physics
+#       institution: Karl-Ferdinand University, Prague, Czechoslovakia
+#       year: 1911 - 1917
+#       description:
+
+#     - title: Associate Professor of Theoretical Physics
+#       institution: University of Zurich, Zurich, Switzerland
+#       year: 1909 - 1911
+
+
+
+
+- title: Working Paper
+  type: time_table
+  contents:
+    - title: <a href="/assets/pdf/jmp_GM.pdf">Young Firms' Financing Choices, Investment, and Growth (JMP)</a>
+      year: 2022
+      description: 
+      Abstract: This paper investigates the impact of access to different financing choices on young firms'
+                  future growth paths. According to the Kauffman Firm Survey data, over 2/3 of debt firms rely on credit
+                  card borrowing in the first five years of development. I construct a firm life-cycle model with financing
+                  constraints to address selection issues involved in the endogenous financing decisions. In this model,
+                  firms can simultaneously choose up to three debt financing sources--business bank loans, personal bank
+                  loans, and credit card borrowing. I find many firms increase their debt leverage, particularly through
+                  credit card borrowing, to avoid shrinking their businesses in bad times. Also, without credit card borrowing,
+                  debt firms quickly clear their debt within 4 years of development and assets accumulation level
+                  can drop by 11%. In the counterfactual analysis, I estimate how young firms react to the increasing
+                  financing cost caused by the local bank industry concentration. The increasing financing cost can lead
+                  to a rise in the ratio of debt firms with business bank loans by forcing firms that rely on credit card
+                  borrowing to clear their outstanding debt. When the financing cost is not too high for business loan
+                  borrowers, this selection mechanism can shift the firm size distribution to the right.
+
+    - title: <a href="/assets/pdf/draftv_GM.pdf">Information Asymmetry and Bidders' Behavior in Common Value English Auctions</a>
+      year: 2022
+      description:     
+      Abstract: In the canonical common value English auction with asymmetric information, the identity of the
+                insider is assumed to be mandatory known by the public and thus her existence often induces
+                more aggressive competition. However, when the identity revelation is not enforceable, the
+                insider can choose whether to reveal or not based on strategic interactions with her rivals. This
+                could have no trivial impact on bidding outcomes. empirical evidence from Chinese Judicial
+                Auction for real estate shows that the winning price declines when the insider voluntarily reveal
+                her identity. To reconcile the conflicts between the data and theory, we introduce the information
+                revelation decision process into the standard theoretical framework. Our model shows that
+                the insider may reveal her identity when she receives a bad or very good signal. Also, the
+                impact from the informed bidder decreases as the number of participants increases and the
+                effect depends on the level of information frictions. Based on the theoretical framework, we
+                overcome the identification challenge and construct parametric structure estimation algorithm
+                to recover the value function distribution. Our estimation results find that first, common value
+                part dominates the bidder's private value part of the selling house. Second, the noisy component
+                is nontrivial. These two features give the informed bidder's opportunity to take advantage of
+                strategic bidding. Informed bidder can leverage her information advantage to influence the
+                bidding activities. For example, adopting both active and inactive bidding strategies, the insider
+                can shift the winning price distribution leftward by dampening the bidding competition.
+
+
+
+# - title: Publication 
+#   type: time_table
+#   contents: 
+#     - title: <a href="/assets/pdf/IER2003_HMQW.pdf">'Conventional' Monetary Policy in OLG Models Revisiting the Asset-substitution Channel</a>
+#       year: 2022
+#       description: 
+#       Appendix: <a href="/assets/pdf/Online_Appendix_Final_Version.pdf">Online Appendix</a>
+#       Abstract: 'Conventional' monetary policy involves actions by the monetary and fiscal authorities -- the
+#                 former sets a nominal interest rate and the latter sets lump-sum taxes to finance the implied flow of
+#                 interest payments on government debt. We model such policy within an overlapping generations framework
+#                 and show that absent any other frictions the magnitude of the nominal interest rate gives rise
+#                 to asset substitution between government debt and either private debt or capital substitution which has
+#                 both real and nominal effects. Such substitution is not in standard New Keynesian models because those
+#                 models use a dynastic specification in which government debt is not net wealth.
+
+
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2019
+      items: 
+        - Bates White Award, Dept. of Economics, Penn State
+
+- title: Academic Interests
+  type: list
+  contents: 
+    - Auction, Industrial Organization, Firm Dynamics, Open Macro 
+    # type: nested_list
+    # - title: Auction
+    #   items: 
+    #     - Description 1.
+    #     - Description 2.
+    # - title: Firm Dynamics
+    #   items:
+    #     - Description 1.
+    #     - Description 2.
+
+- title: COMPUTER SKILLS
+  type: list
+  contents:
+    - Python, Matlab, Stata, Machine Learning, Webspider
