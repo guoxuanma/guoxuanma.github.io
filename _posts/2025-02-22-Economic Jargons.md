@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Economic Jargons
-date: {}
+date: 2022-2-22 23:00:00 
 description: save for important economic jargons
 tags: definition
 categories: economics
