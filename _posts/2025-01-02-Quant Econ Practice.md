@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quant Econ Practice 
-date: 2025-01-02 12:18:00
+date: 2025-01-02
 description: Quantitative practice in my past studies 
 tags: code
 categories: economics
