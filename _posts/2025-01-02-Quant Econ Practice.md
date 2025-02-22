@@ -15,4 +15,4 @@ Here I list my past quantatitive practise in studying empirical macro, empirical
 
 - Krusell & Smith (1998) simple replication 
     - this version does not have full estimation part.
-    - [package](assets/src/ks_replicate.zip)     
+    - [package](/assets/src/ks_replicate.zip)     
