@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Economic Jargons
-date: 2025-02-22
-description: save for important economic jargons 
+date: {}
+description: save for important economic jargons
 tags: definition
 categories: economics
 ---
@@ -83,9 +83,4 @@ Here I list important economic jargons that I encountered during my studies
 
 - **In econometrics**: Terms like *ex ante* and *ex post* frame predictive vs. observed data.  
 - **In policy design**: *Ceteris paribus* simplifies complex systems but risks oversimplification.  
-- **In legal economics**: *Prima facie* and *per se* shape antitrust and regulatory frameworks.  
-
-
-
-
-
+- **In legal economics**: *Prima facie* and *per se* shape antitrust and regulatory frameworks.
