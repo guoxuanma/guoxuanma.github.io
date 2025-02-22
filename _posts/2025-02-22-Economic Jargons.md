@@ -1,3 +1,12 @@
+---
+layout: post
+title: Economic Jargons
+date: 2025-02-22
+description: save for important economic jargons 
+tags: definition
+categories: economics
+---
+
 Here I list important economic jargons that I encountered during my studies 
 
 ### Key Terminology
